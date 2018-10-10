@@ -1,0 +1,12 @@
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\bin\Debug\doubleDiceSimulator.exe.config
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\bin\Debug\doubleDiceSimulator.exe
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\bin\Debug\doubleDiceSimulator.pdb
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Form1.resources
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Properties.Resources.resources
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.csproj.GenerateResource.Cache
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.exe
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.pdb
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Form2.resources
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Form3.resources
+C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Form4.resources
