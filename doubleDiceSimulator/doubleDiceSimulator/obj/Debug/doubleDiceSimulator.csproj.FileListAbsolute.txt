@@ -10,3 +10,6 @@ C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debu
 C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Form2.resources
 C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Form3.resources
 C:\Users\Alexa\OneDrive\gamePro\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.Form4.resources
+C:\Users\Alexa\OneDrive\GitHub\bin_hex_oct-calculator\doubleDiceSimulator\doubleDiceSimulator\bin\Debug\doubleDiceSimulator.exe.config
+C:\Users\Alexa\OneDrive\GitHub\bin_hex_oct-calculator\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.exe
+C:\Users\Alexa\OneDrive\GitHub\bin_hex_oct-calculator\doubleDiceSimulator\doubleDiceSimulator\obj\Debug\doubleDiceSimulator.pdb
